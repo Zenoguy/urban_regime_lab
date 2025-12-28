@@ -70,9 +70,7 @@ including trials that *may or may not* survive into the final framework.
 
 ```
 notebooks/
-  YYYY-MM-experiment-name.ipynb
-  YYYY-MM-phase-test.ipynb
-  YYYY-MM-cross-city-scout.ipynb
+  phaseXX.ipynb
 
 figures/
   (key exploratory plots & snapshots)
